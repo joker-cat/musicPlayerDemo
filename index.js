@@ -45,15 +45,15 @@ let All_song = [
      singer: "3"
    },
    {
-     name: "fourth song",
-     path: "4.mp3",
-     img: "img4.jpg",
+     name: "Common, John Legend - Glory",
+     path: "Common, John Legend - Glory.mp3",
+     img: "Common, John Legend - Glory.jpg",
      singer: "4"
    },
    {
-     name: "fifth song",
-     path: "5.mp3",
-     img: "img5.jpg",
+     name: "Michael Jackson - Whatever Happens",
+     path: "Michael Jackson - Whatever Happens.mp3",
+     img: "Michael Jackson - Whatever Happens.jpg",
      singer: "5"
    }
 ];
