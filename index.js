@@ -33,15 +33,15 @@ let All_song = [
      singer: "1"
    },
    {
-     name: "second song",
-     path: "2.mp3",
-     img: "img2.jpg",
+     name: "FKJ - Drops feat. Tom Bailey",
+     path: "FKJ - Drops feat. Tom Bailey.mp3",
+     img: "FKJ - Drops feat. Tom Bailey.jpg",
      singer: "2"
    },
    {
-     name: "third song",
-     path: "3.mp3",
-     img: "img3.jpg",
+     name: "Utada Hikaru (宇多田光) - Merry Christmas Mr. Lawrence - FYI",
+     path: "Utada Hikaru (宇多田光) - Merry Christmas Mr. Lawrence - FYI.mp3",
+     img: "Utada Hikaru (宇多田光) - Merry Christmas Mr. Lawrence - FYI.jpg",
      singer: "3"
    },
    {
